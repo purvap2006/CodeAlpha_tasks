@@ -1,0 +1,9 @@
+----User Info----
+Name: purva
+Balance: Rs.500.00
+
+----Portfolio----
+No Stocks Owned
+
+===== TRANSACTION HISTORY =====
+No Transactions

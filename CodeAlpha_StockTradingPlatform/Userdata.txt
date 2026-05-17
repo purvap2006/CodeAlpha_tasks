@@ -1,0 +1,9 @@
+----User Info----
+Name: riya
+Balance: Rs.0.00
+
+----Portfolio----
+No Stocks Owned
+
+===== TRANSACTION HISTORY =====
+No Transactions

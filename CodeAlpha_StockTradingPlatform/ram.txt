@@ -1,0 +1,13 @@
+----User Info----
+Name: ram
+Balance: Rs.30607.15
+
+----Portfolio----
+TCS| Qty: 5
+WIPRO| Qty: 4
+
+===== TRANSACTION HISTORY =====
+BUY | TCS | 10 | Rs.3539.29 | 14-05-2026  22:40:38
+BUY | WIPRO | 5 | Rs.424.10 | 14-05-2026  22:41:02
+SELL | TCS | 5 | Rs.3539.29 | 14-05-2026  22:41:11
+SELL | WIPRO | 1 | Rs.424.10 | 14-05-2026  22:41:25
